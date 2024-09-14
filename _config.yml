@@ -2,8 +2,8 @@
 name: "CCG"
 title: "Care Computing Group"
 description: "A research group focusing on designing computing to empower people and transform care."
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
+logo: 'assets/images/logo-no-background.png'
+favicon: 'assets/images/logo-no-background.png'
 baseurl: /mediumish-theme-jekyll
 google_analytics: 'UA-46278016-1'
 disqus: 'demowebsite'
